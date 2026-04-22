@@ -70,5 +70,5 @@ Passionate about transforming data into actionable insights.
 
 ---
 
-## ⭐ Support  
+##  Support  
 If you found this project useful, feel free to star the repository!
