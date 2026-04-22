@@ -1,0 +1,479 @@
+Car Name,Company,Year of Manufacture,Distance Driven,Fuel Type,Transmission Type,EMI,Price,Car Age,City
+Volkswagen Ameo,Volkswagen,2016,139671,CNG,Manual,7971,240000,10,Jaipur
+Nissan MAGNITE,Nissan,2021,48334,Petrol,Manual,7961,451000,5,Jaipur
+Tata Tiago,Tata,2017,65432,Petrol,Manual,6572,336000,9,Jaipur
+Tata NEXON,Tata,2019,111783,Petrol,Manual,9244,416000,7,Jaipur
+Hyundai NEW I20,Hyundai,2023,48674,Petrol,Manual,10856,615000,3,Jaipur
+Volkswagen Ameo,Volkswagen,2016,79717,Petrol,Manual,6518,293000,10,Jaipur
+Volkswagen Polo,Volkswagen,2020,70362,Petrol,Manual,6720,381000,6,Jaipur
+Maruti S PRESSO,Maruti,2023,12327,Petrol,Manual,6990,396000,3,Jaipur
+Maruti IGNIS,Maruti,2021,48171,Petrol,Manual,7474,423000,5,Jaipur
+Maruti Swift,Maruti,2015,73731,Petrol,Manual,9077,345000,11,Jaipur
+Hyundai VENUE,Hyundai,2020,103236,Petrol,Manual,10900,490000,6,Jaipur
+Tata Harrier,Tata,2022,60641,Diesel,Auto,23150,1352000,4,Jaipur
+Maruti Baleno,Maruti,2016,53335,Petrol,Auto,7613,342000,10,Jaipur
+Maruti Alto 800,Maruti,2016,55877,Petrol,Manual,4427,199000,10,Jaipur
+Nissan MAGNITE,Nissan,2023,27930,Petrol,Manual,8470,480000,3,Jaipur
+Hyundai Elite i20,Hyundai,2019,25851,Petrol,Auto,7899,447000,7,Jaipur
+Hyundai AURA,Hyundai,2022,45032,Petrol,Manual,9794,555000,4,Jaipur
+Volkswagen Ameo,Volkswagen,2019,49461,Diesel,Manual,8120,459999,7,Jaipur
+Hyundai NEW I20,Hyundai,2020,66458,Petrol,Manual,9091,515000,6,Jaipur
+Hyundai NEW I20,Hyundai,2023,39600,Petrol,Manual,10415,590000,3,Jaipur
+Maruti Alto K10,Maruti,2018,61893,Petrol,Manual,4712,267000,8,Jaipur
+Ford Ecosport,Ford,2018,142097,Diesel,Manual,11456,515000,8,Jaipur
+Tata TIGOR,Tata,2021,23482,Petrol,Manual,6796,385000,5,Jaipur
+Maruti Vitara Brezza,Maruti,2020,71046,Petrol,Manual,10768,610000,6,Jaipur
+KIA SELTOS,KIA,2021,29800,Petrol,Manual,13501,765000,5,Jaipur
+Maruti Baleno,Maruti,2017,96493,Petrol,Auto,7722,395000,9,Jaipur
+KIA CARENS,KIA,2024,20724,Petrol,Manual,16181,944999,2,Jaipur
+Renault TRIBER,Renault,2022,72311,Petrol,Manual,7497,425000,4,Jaipur
+Hyundai Elite i20,Hyundai,2019,83244,Petrol,Manual,7235,409999,7,Jaipur
+Honda Amaze,Honda,2014,82448,Petrol,Manual,7971,240000,12,Jaipur
+Maruti Alto,Maruti,2021,74768,CNG,Manual,5208,295000,5,Jaipur
+Nissan MAGNITE,Nissan,2024,15036,Petrol,Auto,8826,500000,2,Jaipur
+Tata NEXON,Tata,2024,5854,Petrol,Manual,13261,751000,2,Jaipur
+Maruti Swift,Maruti,2023,44029,Petrol,Manual,11474,650000,3,Jaipur
+Hyundai Verna,Hyundai,2021,45311,Petrol,Auto,15410,900000,5,Jaipur
+Tata NEXON,Tata,2018,96091,Petrol,Manual,7058,400000,8,Jaipur
+Maruti Alto K10,Maruti,2025,7736,Petrol,Manual,7591,430000,1,Jaipur
+Mahindra Thar,Mahindra,2021,60890,Diesel,Auto,17037,994999,5,Jaipur
+Hyundai VENUE,Hyundai,2019,78033,Petrol,Auto,10771,610000,7,Jaipur
+Volkswagen Vento,Volkswagen,2017,99230,Diesel,Auto,10496,472000,9,Jaipur
+Skoda SLAVIA,Skoda,2022,51064,Petrol,Manual,14642,855000,4,Jaipur
+Toyota Glanza,Toyota,2019,53194,Petrol,Manual,8385,475000,7,Jaipur
+Honda City,Honda,2019,46741,Diesel,Manual,9841,557000,7,Jaipur
+Hyundai Creta,Hyundai,2016,99170,Petrol,Auto,11790,530000,10,Jaipur
+Honda City,Honda,2014,34314,Petrol,Manual,10296,310000,12,Jaipur
+Hyundai Verna,Hyundai,2023,24896,Petrol,Manual,17205,1005000,3,Jaipur
+Hyundai i20 Active,Hyundai,2015,101144,Petrol,Manual,8295,315000,11,Jaipur
+KIA SONET,KIA,2020,59261,Petrol,Auto,11127,630000,6,Jaipur
+Hyundai Elite i20,Hyundai,2020,38720,Petrol,Manual,8650,490000,6,Jaipur
+Maruti Baleno,Maruti,2021,95659,Petrol,Auto,9709,550000,5,Jaipur
+Hyundai Grand i10,Hyundai,2017,80359,Petrol,Manual,6608,338000,9,Jaipur
+Maruti Celerio,Maruti,2017,86668,Petrol,Manual,5865,300000,9,Jaipur
+Hyundai Elite i20,Hyundai,2017,93604,Petrol,Manual,8010,409999,9,Jaipur
+KIA SONET,KIA,2023,19847,Petrol,Manual,14040,819999,3,Jaipur
+Honda City,Honda,2019,34159,Petrol,Manual,9797,555000,7,Jaipur
+Honda Amaze,Honda,2014,63777,CNG,Manual,23101,260000,12,Jaipur
+Maruti Wagon R 1.0,Maruti,2018,97429,Petrol,Manual,5296,300000,8,Jaipur
+Maruti Vitara Brezza,Maruti,2020,42566,Diesel,Manual,12269,695000,6,Jaipur
+Honda City,Honda,2022,19988,Petrol,Manual,13504,765000,4,Jaipur
+Tata Hexa,Tata,2017,57257,Diesel,Auto,14090,633000,9,Jaipur
+Maruti Celerio,Maruti,2021,68756,Petrol,Auto,6796,385000,5,Jaipur
+Volkswagen Vento,Volkswagen,2018,131512,Diesel,Auto,11016,495000,8,Jaipur
+MG HECTOR,MG,2019,56612,Diesel,Manual,17122,1000000,7,Jaipur
+Maruti IGNIS,Maruti,2018,55687,Petrol,Manual,6620,375000,8,Jaipur
+Nissan Kicks,Nissan,2019,98840,Diesel,Manual,8474,480000,7,Jaipur
+Tata TIAGO NRG,Tata,2022,32601,CNG,Auto,10150,575000,4,Jaipur
+Honda Amaze,Honda,2018,66454,Diesel,Auto,10362,530000,8,Jaipur
+Hyundai Eon,Hyundai,2015,68938,Petrol,Manual,5398,204999,11,Jaipur
+Mahindra BOLERO NEO,Mahindra,2022,42523,Diesel,Manual,14760,861999,4,Jaipur
+Tata NEXON,Tata,2019,51195,CNG,Manual,10362,530000,7,Jaipur
+Honda City,Honda,2017,68322,Petrol,Auto,10459,535000,9,Jaipur
+Maruti Vitara Brezza,Maruti,2022,56114,Petrol,Manual,10945,620000,4,Jaipur
+Maruti Swift,Maruti,2023,19862,Petrol,Auto,10768,610000,3,Jaipur
+Skoda SLAVIA,Skoda,2022,75166,Petrol,Manual,12803,725000,4,Jaipur
+Maruti Alto 800,Maruti,2017,81982,Petrol,Manual,4497,229999,9,Jaipur
+Ford FREESTYLE,Ford,2018,128009,Petrol,Manual,6890,310000,8,Jaipur
+KIA SONET,KIA,2021,66722,Petrol,Manual,11033,625000,5,Jaipur
+Honda City,Honda,2019,54188,Petrol,Auto,9744,552000,7,Jaipur
+Renault Kiger,Renault,2022,74623,Petrol,Manual,8563,484999,4,Jaipur
+Tata TIGOR,Tata,2018,79067,Petrol,Manual,5583,316000,8,Jaipur
+Tata ALTROZ,Tata,2023,37220,Petrol,Manual,11807,669000,3,Jaipur
+KIA SYROS,KIA,2025,2598,Petrol,Manual,17037,994999,1,Jaipur
+Honda Amaze,Honda,2021,53671,Petrol,Manual,8562,484999,5,Jaipur
+Maruti Celerio,Maruti,2017,91381,Petrol,Auto,6162,315000,9,Jaipur
+Hyundai Xcent,Hyundai,2017,101762,Petrol,Manual,7341,330000,9,Jaipur
+Honda Amaze,Honda,2016,23030,Petrol,Manual,7229,325000,10,Jaipur
+Honda Amaze,Honda,2022,26343,Petrol,Manual,9532,540000,4,Jaipur
+Hyundai i20,Hyundai,2013,91706,Petrol,Manual,12710,270000,13,Jaipur
+Maruti Celerio,Maruti,2021,52331,Petrol,Manual,6620,375000,5,Jaipur
+Tata Tiago,Tata,2018,51520,Petrol,Manual,6109,346000,8,Jaipur
+Maruti Celerio,Maruti,2020,31679,Petrol,Manual,5825,330000,6,Jaipur
+Hyundai GRAND I10 NIOS,Hyundai,2020,85637,CNG,Auto,9268,525000,6,Jaipur
+Skoda Rapid,Skoda,2018,92251,Diesel,Manual,9971,509999,8,Jaipur
+Maruti Wagon R 1.0,Maruti,2018,48105,Petrol,Auto,5649,320000,8,Jaipur
+Hyundai Elite i20,Hyundai,2017,91027,Petrol,Manual,8016,409999,9,Jaipur
+Maruti S Cross,Maruti,2020,11656,Petrol,Manual,11500,651000,6,Jaipur
+Honda WR-V,Honda,2017,146319,Petrol,Manual,8125,365000,9,Jaipur
+Hyundai Elite i20,Hyundai,2017,61636,Petrol,Manual,8700,445000,9,Jaipur
+Honda City,Honda,2016,45716,Petrol,Auto,10999,494000,10,Jaipur
+Maruti IGNIS,Maruti,2019,84136,Petrol,Auto,7238,409999,7,Jaipur
+Volkswagen Polo,Volkswagen,2019,103074,Petrol,Auto,11514,518000,7,Jaipur
+Hyundai Elite i20,Hyundai,2017,87263,Petrol,Manual,8521,436000,9,Jaipur
+Honda Amaze,Honda,2022,34195,Petrol,Manual,10945,620000,4,Jaipur
+Mahindra MARAZZO,Mahindra,2019,69853,Diesel,Manual,10768,610000,7,Jaipur
+Hyundai NEW SANTRO,Hyundai,2021,28560,Petrol,Manual,6885,390000,5,Jaipur
+Maruti Ciaz,Maruti,2022,69755,Petrol,Manual,11298,640000,4,Jaipur
+Maruti Alto 800,Maruti,2018,95111,Petrol,Manual,4325,245000,8,Jaipur
+Honda City,Honda,2018,69866,Petrol,Manual,9974,565000,8,Jaipur
+Skoda SLAVIA,Skoda,2022,52763,Petrol,Auto,15753,919999,4,Jaipur
+Hyundai Grand i10,Hyundai,2016,76742,Petrol,Manual,8342,375000,10,Jaipur
+Honda City,Honda,2020,91515,Petrol,Auto,14122,800000,6,Jaipur
+Honda City,Honda,2017,46585,Petrol,Manual,10557,540000,9,Jaipur
+Honda City,Honda,2018,41960,Petrol,Auto,10244,580000,8,Jaipur
+Hyundai Verna,Hyundai,2016,85345,Diesel,Manual,6583,250000,10,Jaipur
+Maruti Wagon R 1.0,Maruti,2013,63006,Petrol,Manual,8473,180000,13,Jaipur
+Maruti Wagon R 1.0,Maruti,2015,121041,Petrol,Manual,4003,152000,11,Jaipur
+Ford New Figo,Ford,2019,68920,Petrol,Manual,4413,250000,7,Jaipur
+Hyundai Verna,Hyundai,2014,221652,Diesel,Manual,15534,330000,12,Jaipur
+Hyundai Elite i20,Hyundai,2017,97839,Petrol,Manual,7625,390000,9,Jaipur
+Renault Kwid,Renault,2016,87245,Petrol,Manual,2767,124000,10,Jaipur
+Maruti New Wagon-R,Maruti,2022,68830,Petrol,Manual,8826,500000,4,Jaipur
+Maruti Baleno,Maruti,2018,76897,Petrol,Manual,7043,399000,8,Jaipur
+Maruti Vitara Brezza,Maruti,2019,100187,Diesel,Manual,11500,517000,7,Jaipur
+Maruti Celerio,Maruti,2016,19704,Petrol,Auto,7051,317000,10,Jaipur
+Maruti Swift Dzire,Maruti,2015,99593,Petrol,Manual,6794,258000,11,Jaipur
+Mahindra BOLERO NEO,Mahindra,2022,31312,Diesel,Manual,13557,768000,4,Jaipur
+Hyundai Verna,Hyundai,2014,101389,Diesel,Manual,10921,231999,12,Jaipur
+Maruti Alto,Maruti,2011,180164,Petrol,Manual,10921,74000,15,Jaipur
+Skoda SLAVIA,Skoda,2022,56404,Petrol,Manual,14263,833000,4,Jaipur
+Hyundai i10,Hyundai,2012,63905,Petrol,Manual,12439,140000,14,Jaipur
+Hyundai Verna,Hyundai,2012,105308,Diesel,Manual,12439,200000,14,Jaipur
+Maruti Alto K10,Maruti,2012,73944,Petrol,Manual,11550,130000,14,Jaipur
+Renault Kwid,Renault,2018,71592,Petrol,Manual,3689,209000,8,Jaipur
+Mahindra XUV500,Mahindra,2014,86813,Diesel,Manual,14452,307000,12,Jaipur
+Hyundai i10,Hyundai,2012,56959,Petrol,Manual,13594,153000,14,Jaipur
+Maruti Dzire,Maruti,2017,157688,Diesel,Manual,8942,401999,9,Jaipur
+Volkswagen Ameo,Volkswagen,2018,88208,Petrol,Manual,7079,401000,8,Jaipur
+Hyundai Eon,Hyundai,2015,121267,Petrol,Manual,4529,172000,11,Jaipur
+Hyundai Verna,Hyundai,2020,74644,Petrol,Manual,10486,594000,6,Jaipur
+Hyundai Verna,Hyundai,2013,91009,Diesel,Manual,21146,238000,13,Jaipur
+Maruti Wagon R 1.0,Maruti,2015,81211,Petrol,Manual,4714,179000,11,Jaipur
+Hyundai i20,Hyundai,2013,93507,Diesel,Manual,19547,220000,13,Jaipur
+Mahindra XUV500,Mahindra,2012,227600,Diesel,Manual,19547,202000,14,Jaipur
+Honda Amaze,Honda,2019,59568,Petrol,Manual,7061,400000,7,Jaipur
+Datsun Redi Go,Datsun,2017,35579,Petrol,Manual,3108,159000,9,Jaipur
+KIA SELTOS,KIA,2020,35004,Petrol,Manual,11969,678000,6,Jaipur
+Hyundai Eon,Hyundai,2014,102951,Petrol,Manual,4982,150000,12,Jaipur
+Hyundai Eon,Hyundai,2014,127845,Petrol,Manual,5314,160000,12,Jaipur
+Hyundai i10,Hyundai,2013,60077,Petrol,Manual,6826,145000,13,Jaipur
+Maruti Swift,Maruti,2013,95753,Petrol,Manual,13840,294000,13,Jaipur
+Nissan Sunny,Nissan,2012,307369,Diesel,Manual,13840,132000,14,Jaipur
+Honda Brio,Honda,2013,92620,Petrol,Manual,7673,163000,13,Jaipur
+Hyundai Eon,Hyundai,2016,12559,Petrol,Manual,4382,197000,10,Jaipur
+Maruti Alto 800,Maruti,2015,37909,Petrol,Manual,6083,231000,11,Jaipur
+Honda Brio,Honda,2012,67966,Petrol,Manual,13949,157000,14,Jaipur
+Hyundai Eon,Hyundai,2015,83789,Petrol,Manual,3529,134000,11,Jaipur
+Maruti Swift,Maruti,2014,163890,Petrol,Manual,7839,236000,12,Jaipur
+Honda Amaze,Honda,2014,94973,Diesel,Manual,8285,176000,12,Jaipur
+Hyundai Verna,Hyundai,2010,50242,Petrol,Manual,8285,87000,16,Jaipur
+Mahindra TUV300,Mahindra,2016,210417,Diesel,Manual,6531,248000,10,Jaipur
+Ford Ecosport,Ford,2014,130259,Diesel,Manual,11203,238000,12,Jaipur
+Hyundai Santro Xing,Hyundai,2012,53168,Petrol,Manual,10573,119000,14,Jaipur
+Mahindra TUV300,Mahindra,2019,55040,Diesel,Manual,8526,483000,7,Jaipur
+Hyundai Eon,Hyundai,2014,89088,Petrol,Manual,3753,112999,12,Jaipur
+Hyundai Eon,Hyundai,2012,113194,Petrol,Manual,8263,93000,14,Jaipur
+Hyundai Elite i20,Hyundai,2014,109292,Diesel,Manual,15158,322000,12,Jaipur
+KIA SONET,KIA,2022,66033,Petrol,Manual,10856,615000,4,Jaipur
+Maruti Alto 800,Maruti,2017,46096,Petrol,Manual,5298,271000,9,Jaipur
+Hyundai i10,Hyundai,2015,68414,Petrol,Manual,5635,214000,11,Jaipur
+Maruti Swift,Maruti,2024,45251,Petrol,Manual,11209,635000,2,Jaipur
+Maruti Baleno,Maruti,2020,46917,Petrol,Manual,7008,397000,6,Jaipur
+Tata NEXON,Tata,2018,252939,Diesel,Manual,12234,550000,8,Jaipur
+Maruti Wagon R 1.0,Maruti,2014,77119,Petrol,Manual,5746,173000,12,Jaipur
+Toyota Etios,Toyota,2011,142551,Petrol,Manual,5746,211000,15,Jaipur
+Renault Duster,Renault,2015,174080,Diesel,Manual,7274,219000,11,Jaipur
+Maruti Swift Dzire,Maruti,2013,178420,Petrol,Manual,12992,276000,13,Jaipur
+Renault TRIBER,Renault,2020,41640,Petrol,Manual,6055,343000,6,Jaipur
+Maruti Wagon R 1.0,Maruti,2014,149932,Petrol,Manual,5813,175000,12,Jaipur
+Ford Figo,Ford,2012,182741,Diesel,Manual,5813,82000,14,Jaipur
+Ford New Figo,Ford,2016,145611,Diesel,Manual,6109,231999,10,Jaipur
+KIA SELTOS,KIA,2020,93492,Diesel,Manual,13416,760000,6,Jaipur
+Mahindra Bolero,Mahindra,2020,117933,Diesel,Manual,17128,770000,6,Jaipur
+Maruti Ertiga,Maruti,2013,117952,Diesel,Manual,25233,284000,13,Jaipur
+Nissan Sunny,Nissan,2013,103622,Diesel,Manual,13061,147000,13,Jaipur
+Mahindra XUV500,Mahindra,2014,148387,Diesel,Manual,16805,357000,12,Jaipur
+Audi A4,Audi,2011,109666,Diesel,Auto,16805,542000,15,Jaipur
+Hyundai NEW I20,Hyundai,2024,17717,Petrol,Manual,15650,914000,2,Jaipur
+Tata TIGOR,Tata,2022,43671,Petrol,Manual,9444,535000,4,Jaipur
+Honda Amaze,Honda,2014,111029,Diesel,Manual,9321,198000,12,Jaipur
+Hyundai AURA,Hyundai,2020,56486,Petrol,Manual,7732,438000,6,Jaipur
+Hyundai Grand i10,Hyundai,2016,80330,Petrol,Manual,5517,248000,10,Jaipur
+Maruti Swift,Maruti,2014,132311,Petrol,Manual,7639,229999,12,Jaipur
+Tata PUNCH,Tata,2022,95690,Petrol,Manual,8703,493000,4,Jaipur
+Hyundai Grand i10,Hyundai,2015,133232,Diesel,Manual,8038,242000,11,Jaipur
+Chevrolet Beat,Chevrolet,2012,69538,Diesel,Manual,8038,68000,14,Jaipur
+Hyundai i20,Hyundai,2013,107390,Diesel,Manual,13505,152000,13,Jaipur
+Hyundai Xcent,Hyundai,2015,174677,Diesel,Manual,5979,180000,11,Jaipur
+Tata PUNCH,Tata,2022,63153,Petrol,Manual,8879,503000,4,Jaipur
+Hyundai i10,Hyundai,2011,109385,Petrol,Manual,8879,128000,15,Jaipur
+Honda City,Honda,2014,94635,Diesel,Manual,12992,276000,12,Jaipur
+Renault Duster,Renault,2013,215965,Diesel,Manual,18836,212000,13,Jaipur
+Tata NEXON,Tata,2019,191441,Diesel,Manual,7763,349000,7,Jaipur
+Maruti Wagon R 1.0,Maruti,2011,118833,Petrol,Manual,7763,97000,15,Jaipur
+Honda City,Honda,2018,50353,Petrol,Manual,7961,451000,8,Jaipur
+Skoda Fabia,Skoda,2011,53982,Petrol,Manual,7961,119000,15,Jaipur
+Maruti Baleno,Maruti,2015,78112,Petrol,Manual,11218,426000,11,Jaipur
+Tata NEXON,Tata,2019,32500,Petrol,Manual,10592,600000,7,Jaipur
+Hyundai Eon,Hyundai,2017,73961,Petrol,Manual,4301,220000,9,Jaipur
+Mahindra Scorpio,Mahindra,2017,21133,Diesel,Manual,18612,856000,9,Jaipur
+Renault Kwid,Renault,2020,112390,Petrol,Manual,5672,254999,6,Jaipur
+Tata NEXON,Tata,2022,22590,Petrol,Auto,13451,762000,4,Jaipur
+Nissan Terrano,Nissan,2016,154769,Diesel,Manual,5267,200000,10,Jaipur
+Honda City,Honda,2015,131443,Diesel,Manual,9333,281000,11,Jaipur
+Tata NEXON,Tata,2021,38153,Petrol,Manual,11439,648000,5,Jaipur
+Hyundai Elite i20,Hyundai,2015,174134,Diesel,Manual,12123,365000,11,Jaipur
+Maruti Swift,Maruti,2024,4119,Petrol,Manual,13081,741000,2,Jaipur
+Hyundai i20,Hyundai,2011,120559,Petrol,Manual,13081,97000,15,Jaipur
+Maruti Baleno,Maruti,2016,42389,Petrol,Auto,9632,433000,10,Jaipur
+Skoda Rapid,Skoda,2017,218146,Diesel,Manual,10166,457000,9,Jaipur
+Hyundai Eon,Hyundai,2015,73606,Petrol,Manual,3186,121000,11,Jaipur
+Maruti Alto K10,Maruti,2011,70366,Petrol,Manual,3186,155000,15,Jaipur
+Maruti Alto 800,Maruti,2016,68458,Petrol,Manual,4916,221000,10,Jaipur
+Ford Ecosport,Ford,2015,171693,Diesel,Manual,8005,241000,11,Jaipur
+Mahindra XUV500,Mahindra,2015,116714,Diesel,Manual,16209,488000,11,Jaipur
+Mahindra Scorpio,Mahindra,2010,205000,Diesel,Manual,16209,182000,16,Jaipur
+Toyota Etios,Toyota,2011,120392,Petrol,Manual,16209,123000,15,Jaipur
+Hyundai Xcent,Hyundai,2014,117357,Petrol,Manual,9898,298000,12,Jaipur
+Hyundai i10,Hyundai,2011,98084,Petrol,Manual,9898,120000,15,Jaipur
+Ford Figo,Ford,2012,141805,Diesel,Manual,9898,74000,14,Jaipur
+Hyundai i10,Hyundai,2013,116355,Petrol,Manual,7061,150000,13,Jaipur
+Maruti Vitara Brezza,Maruti,2017,122129,Diesel,Manual,9209,413999,9,Jaipur
+Maruti Swift,Maruti,2012,212879,Diesel,Manual,9209,261000,14,Jaipur
+Hyundai Grand i10,Hyundai,2015,198505,Diesel,Manual,7872,237000,11,Jaipur
+Datsun Go,Datsun,2016,83901,Petrol,Manual,3337,150000,10,Jaipur
+Honda Brio,Honda,2013,152602,Petrol,Manual,7908,168000,13,Jaipur
+Chevrolet Sail,Chevrolet,2014,105971,Diesel,Manual,5602,119000,12,Jaipur
+Hyundai VENUE,Hyundai,2021,44111,Petrol,Manual,11121,630000,5,Jaipur
+Maruti Swift,Maruti,2015,98426,Petrol,Manual,8558,325000,11,Jaipur
+Tata Bolt,Tata,2015,158354,Petrol,Manual,3608,137000,11,Jaipur
+Hyundai Verna,Hyundai,2013,144379,Diesel,Manual,24256,273000,13,Jaipur
+Mahindra Verito,Mahindra,2014,167700,Diesel,Manual,4943,105000,12,Jaipur
+Maruti Swift,Maruti,2015,109761,Petrol,Manual,10929,415000,11,Jaipur
+Skoda Rapid,Skoda,2012,93028,Petrol,Manual,14394,162000,14,Jaipur
+Hyundai i10,Hyundai,2011,59748,Petrol,Manual,14394,165000,15,Jaipur
+Maruti Ertiga,Maruti,2018,75797,Diesel,Manual,10283,526000,8,Jaipur
+Maruti Wagon R 1.0,Maruti,2013,77241,Petrol,Manual,9415,200000,13,Jaipur
+Maruti Vitara Brezza,Maruti,2017,154571,Diesel,Manual,9899,445000,9,Jaipur
+Maruti Swift,Maruti,2016,119841,Petrol,Manual,6748,303000,10,Jaipur
+Honda Jazz,Honda,2012,94237,Petrol,Manual,14571,164000,14,Jaipur
+Tata PUNCH,Tata,2023,24086,Petrol,Auto,11157,632000,3,Jaipur
+Renault Kwid,Renault,2021,43767,Petrol,Manual,4943,280000,5,Jaipur
+Hyundai Elite i20,Hyundai,2014,74876,Diesel,Manual,16334,347000,12,Jaipur
+Mahindra XUV500,Mahindra,2014,168453,Diesel,Manual,16805,357000,12,Jaipur
+Hyundai i10,Hyundai,2011,131197,Petrol,Manual,16805,65000,15,Jaipur
+Honda Amaze,Honda,2015,68011,Petrol,Manual,8585,326000,11,Jaipur
+Maruti Alto 800,Maruti,2017,55364,Petrol,Manual,4653,238000,9,Jaipur
+Maruti Baleno,Maruti,2020,62243,Petrol,Manual,8526,483000,6,Jaipur
+Tata Harrier,Tata,2019,15436,Diesel,Manual,15410,900000,7,Jaipur
+Hyundai Grand i10,Hyundai,2015,86000,Petrol,Manual,6610,250999,11,Jaipur
+Maruti Wagon R 1.0,Maruti,2017,27795,Petrol,Auto,6471,331000,9,Jaipur
+Maruti Wagon R Duo,Maruti,2010,123870,Petrol,Manual,6471,61000,16,Jaipur
+Ford Figo,Ford,2011,111862,Diesel,Manual,6471,85000,15,Jaipur
+Volkswagen Polo,Volkswagen,2011,156961,Diesel,Manual,6471,138000,15,Jaipur
+Hyundai i20,Hyundai,2011,87677,Petrol,Manual,6471,165000,15,Jaipur
+Maruti Baleno,Maruti,2022,52618,Petrol,Manual,8491,480999,4,Jaipur
+Maruti Alto K10,Maruti,2015,72959,Petrol,Manual,6373,242000,11,Jaipur
+Hyundai Xcent,Hyundai,2015,87387,Petrol,Manual,6504,247000,11,Jaipur
+Tata TIAGO EV,Tata,2023,35896,Electric,Auto,13045,739000,3,Jaipur
+Maruti Swift,Maruti,2015,105961,Diesel,Manual,11393,343000,11,Jaipur
+Honda City,Honda,2011,131704,Petrol,Manual,11393,204999,15,Jaipur
+Honda City,Honda,2019,34059,Petrol,Auto,12622,715000,7,Jaipur
+Maruti Ciaz,Maruti,2017,73500,Petrol,Manual,10225,523000,9,Jaipur
+Ford Ecosport,Ford,2014,71643,Petrol,Manual,10861,327000,12,Jaipur
+Maruti Dzire,Maruti,2020,53504,Petrol,Manual,8809,499000,6,Jaipur
+Maruti Ertiga,Maruti,2013,99718,Petrol,Manual,16805,357000,13,Jaipur
+Maruti Baleno,Maruti,2017,114346,Petrol,Auto,7897,355000,9,Jaipur
+Maruti Ertiga,Maruti,2012,189880,Diesel,Manual,7897,246000,14,Jaipur
+Hyundai AURA,Hyundai,2021,41879,Petrol,Auto,9197,521000,5,Jaipur
+Renault Duster,Renault,2015,106697,Diesel,Manual,8005,241000,11,Jaipur
+Hyundai NEW I20,Hyundai,2022,89200,Petrol,Manual,9744,552000,4,Jaipur
+Tata ALTROZ,Tata,2021,52730,Petrol,Manual,7644,433000,5,Jaipur
+Maruti FRONX,Maruti,2025,4252,Petrol,Manual,12392,702000,1,Jaipur
+Hyundai Grand i10,Hyundai,2015,78537,Petrol,Manual,7979,303000,11,Jaipur
+Maruti Baleno,Maruti,2021,53023,Petrol,Manual,8897,504000,5,Jaipur
+Mahindra XUV500,Mahindra,2016,144986,Diesel,Auto,14721,559000,10,Jaipur
+Toyota Etios Liva,Toyota,2016,81418,Petrol,Manual,6651,299000,10,Jaipur
+Hyundai i10,Hyundai,2011,152060,Petrol,Manual,6651,122000,15,Jaipur
+Ford Figo Aspire,Ford,2016,39605,Petrol,Manual,6718,302000,10,Jaipur
+Maruti Baleno,Maruti,2021,49114,Petrol,Manual,8950,507000,5,Jaipur
+Tata NEXON,Tata,2018,75592,Petrol,Manual,7008,397000,8,Jaipur
+Maruti Celerio,Maruti,2019,44080,Petrol,Manual,6655,377000,7,Jaipur
+Maruti Swift Dzire,Maruti,2014,150981,Diesel,Manual,16946,360000,12,Jaipur
+Maruti Celerio,Maruti,2021,41744,Petrol,Auto,6743,382000,5,Jaipur
+Hyundai Grand i10,Hyundai,2015,76239,Petrol,Manual,7610,289000,11,Jaipur
+Skoda Rapid,Skoda,2019,58000,Diesel,Auto,10856,615000,7,Jaipur
+Tata Tiago,Tata,2019,84744,Petrol,Manual,6902,391000,7,Jaipur
+Hyundai GRAND I10 NIOS,Hyundai,2020,38904,Petrol,Manual,7308,413999,6,Jaipur
+Mahindra XUV500,Mahindra,2017,80139,Diesel,Manual,12657,569000,9,Jaipur
+Maruti Ciaz,Maruti,2018,142718,Petrol,Manual,9676,434999,8,Jaipur
+Hyundai Elite i20,Hyundai,2016,62790,Petrol,Manual,8787,395000,10,Jaipur
+Maruti Ciaz,Maruti,2015,104264,Diesel,Manual,13651,411000,11,Jaipur
+Hyundai Xcent,Hyundai,2015,72399,Petrol,Manual,8558,325000,11,Jaipur
+Hyundai Grand i10,Hyundai,2017,87954,Petrol,Manual,6021,308000,9,Jaipur
+Maruti Dzire,Maruti,2017,138103,Diesel,Auto,10255,461000,9,Jaipur
+Hyundai GRAND I10 NIOS,Hyundai,2021,17403,Petrol,Manual,8085,458000,5,Jaipur
+Honda City,Honda,2017,54901,Petrol,Manual,8856,453000,9,Jaipur
+Hyundai NEW SANTRO,Hyundai,2018,48230,Petrol,Manual,6002,340000,8,Jaipur
+Honda Amaze,Honda,2019,104473,Diesel,Manual,10766,484000,7,Jaipur
+Maruti Celerio,Maruti,2019,45608,Petrol,Auto,6055,343000,7,Jaipur
+Tata ALTROZ,Tata,2022,23681,Petrol,Manual,9162,519000,4,Jaipur
+Maruti Swift,Maruti,2015,104668,Petrol,Manual,8321,316000,11,Jaipur
+Hyundai Eon,Hyundai,2013,41592,Petrol,Manual,7673,163000,13,Jaipur
+Ford Ecosport,Ford,2015,206437,Diesel,Manual,10463,315000,11,Jaipur
+Maruti Swift Dzire,Maruti,2014,298384,Diesel,Manual,15440,328000,12,Jaipur
+Tata NEXON,Tata,2020,77433,Petrol,Manual,9921,562000,6,Jaipur
+Maruti Celerio,Maruti,2019,65653,Petrol,Auto,6743,382000,7,Jaipur
+Honda City,Honda,2015,79379,Petrol,Manual,11060,420000,11,Jaipur
+Maruti Baleno,Maruti,2021,75331,Petrol,Manual,8438,478000,5,Jaipur
+Hyundai i10,Hyundai,2011,64710,Petrol,Manual,8438,133000,15,Jaipur
+Maruti S Cross,Maruti,2018,129489,Diesel,Manual,11322,509000,8,Jaipur
+Maruti S Cross,Maruti,2016,71527,Diesel,Manual,9217,350000,10,Jaipur
+Renault TRIBER,Renault,2022,46966,Petrol,Manual,8491,480999,4,Jaipur
+Maruti Ertiga,Maruti,2016,84751,Diesel,Manual,17775,675000,10,Jaipur
+Hyundai Elite i20,Hyundai,2017,140254,Petrol,Manual,8475,381000,9,Jaipur
+Tata ALTROZ,Tata,2021,62902,Petrol,Manual,8562,484999,5,Jaipur
+Maruti Wagon R 1.0,Maruti,2015,93946,Petrol,Manual,6847,260000,11,Jaipur
+Maruti Swift,Maruti,2019,37145,Petrol,Auto,9250,524000,7,Jaipur
+Tata ALTROZ,Tata,2021,42446,Petrol,Manual,8844,501000,5,Jaipur
+Maruti Ciaz,Maruti,2016,81544,Diesel,Manual,10191,387000,10,Jaipur
+Hyundai GRAND I10 NIOS,Hyundai,2023,37097,Petrol,Manual,9268,525000,3,Jaipur
+Maruti Swift Dzire,Maruti,2014,74943,Diesel,Manual,17088,363000,12,Jaipur
+MG ASTOR,MG,2023,30519,Petrol,Manual,15342,896000,3,Jaipur
+Hyundai GRAND I10 NIOS,Hyundai,2023,77405,Petrol,Manual,7944,450000,3,Jaipur
+Hyundai Grand i10,Hyundai,2016,78119,Petrol,Manual,7185,323000,10,Jaipur
+Hyundai Eon,Hyundai,2013,137957,Petrol,Manual,5413,114999,13,Jaipur
+Hyundai GRAND I10 NIOS,Hyundai,2020,33473,Petrol,Manual,7750,438999,6,Jaipur
+Hyundai Verna,Hyundai,2017,107405,Petrol,Auto,14236,640000,9,Jaipur
+Mahindra XUV500,Mahindra,2016,94972,Diesel,Manual,13062,496000,10,Jaipur
+Hyundai Grand i10,Hyundai,2016,34023,Petrol,Manual,7719,347000,10,Jaipur
+Hyundai Creta,Hyundai,2016,65384,Petrol,Manual,13814,621000,10,Jaipur
+Hyundai Verna,Hyundai,2017,112000,Diesel,Manual,12613,567000,9,Jaipur
+Ford Ecosport,Ford,2018,49454,Petrol,Manual,7379,418000,8,Jaipur
+Mahindra XUV500,Mahindra,2015,217942,Diesel,Manual,16541,498000,11,Jaipur
+Tata TIGOR,Tata,2019,125000,Petrol,Manual,6829,307000,7,Jaipur
+Maruti Dzire,Maruti,2019,114000,Petrol,Manual,11701,526000,7,Jaipur
+Maruti Ciaz,Maruti,2017,35661,Petrol,Manual,8602,440000,9,Jaipur
+Hyundai Elite i20,Hyundai,2018,33896,Petrol,Manual,9109,516000,8,Jaipur
+Maruti Baleno,Maruti,2020,106086,Petrol,Manual,11923,536000,6,Jaipur
+Maruti Dzire,Maruti,2018,176403,Petrol,Manual,9521,428000,8,Jaipur
+Hyundai NEW I20,Hyundai,2024,43090,Petrol,Manual,12516,709000,2,Jaipur
+Honda WR-V,Honda,2017,121843,Diesel,Manual,10499,472000,9,Jaipur
+Maruti Ertiga,Maruti,2012,213060,Diesel,Manual,10499,349000,14,Jaipur
+Hyundai Creta,Hyundai,2017,103700,Petrol,Manual,12056,542000,9,Jaipur
+Tata NEXON,Tata,2017,153422,Diesel,Manual,9921,446000,9,Jaipur
+Hyundai Elite i20,Hyundai,2020,94500,Petrol,Manual,8826,500000,6,Jaipur
+Maruti Ciaz,Maruti,2018,121892,Petrol,Manual,8675,390000,8,Jaipur
+Hyundai Creta,Hyundai,2021,103430,Petrol,Manual,17698,814000,5,Jaipur
+Hyundai Grand i10,Hyundai,2013,55777,Petrol,Manual,12286,261000,13,Jaipur
+KIA SELTOS,KIA,2021,82134,Petrol,Manual,12357,700000,5,Jaipur
+Volkswagen Ameo,Volkswagen,2017,44448,Petrol,Manual,7742,396000,9,Jaipur
+Audi Q3,Audi,2012,130221,Diesel,Auto,7742,535000,14,Jaipur
+Tata Tiago,Tata,2020,50841,Petrol,Manual,7379,418000,6,Jaipur
+Hyundai VENUE,Hyundai,2023,37825,Petrol,Manual,13240,750000,3,Jaipur
+Ssangyong Rexton,Ssangyong,2015,160226,Diesel,Auto,13850,417000,11,Jaipur
+Maruti Baleno,Maruti,2018,70257,Petrol,Manual,7326,415000,8,Jaipur
+Maruti XL6,Maruti,2023,17206,Petrol,Manual,15753,919999,3,Jaipur
+Hyundai VENUE,Hyundai,2025,10925,Petrol,Manual,15872,927000,1,Jaipur
+Honda City,Honda,2014,92319,Petrol,Auto,13518,407000,12,Jaipur
+Hyundai Creta,Hyundai,2017,60423,Petrol,Auto,13216,676000,9,Jaipur
+Honda City,Honda,2014,124684,Diesel,Manual,15111,321000,12,Jaipur
+Ford Ecosport,Ford,2015,21347,Petrol,Manual,8690,330000,11,Jaipur
+Maruti Ciaz,Maruti,2016,209994,Diesel,Manual,11008,418000,10,Jaipur
+Hyundai Creta,Hyundai,2021,35088,Petrol,Manual,18835,1100000,5,Jaipur
+Mahindra XUV500,Mahindra,2016,260890,Diesel,Manual,14115,536000,10,Jaipur
+Jeep Compass,Jeep,2018,57374,Diesel,Manual,14663,750000,8,Jaipur
+Tata NEXON,Tata,2023,9360,Petrol,Manual,19400,1133000,3,Jaipur
+Mahindra XUV500,Mahindra,2016,200368,Diesel,Manual,15800,600000,10,Jaipur
+Skoda SLAVIA,Skoda,2022,37329,Petrol,Auto,18644,1089000,4,Jaipur
+Renault Duster,Renault,2017,101087,Diesel,Manual,9966,448000,9,Jaipur
+Honda Amaze,Honda,2023,16148,Petrol,Auto,13769,780000,3,Jaipur
+Skoda Rapid,Skoda,2019,149813,Diesel,Auto,15037,676000,7,Jaipur
+Tata Harrier,Tata,2019,78846,Diesel,Manual,14554,850000,7,Jaipur
+Maruti Wagon R 1.0,Maruti,2018,55678,Petrol,Manual,5702,323000,8,Jaipur
+Maruti XL6,Maruti,2021,96284,Petrol,Manual,12834,727000,5,Jaipur
+KIA SONET,KIA,2020,54355,Petrol,Manual,11474,650000,6,Jaipur
+Tata NEXON,Tata,2021,75781,Petrol,Auto,13240,750000,5,Jaipur
+Toyota YARIS,Toyota,2020,62121,Petrol,Auto,11510,652000,6,Jaipur
+Hyundai VENUE,Hyundai,2022,131318,Petrol,Manual,14882,669000,4,Jaipur
+Honda City,Honda,2015,36860,Petrol,Auto,11956,454000,11,Jaipur
+Honda Amaze,Honda,2020,64315,Petrol,Manual,7979,451999,6,Jaipur
+KIA SELTOS,KIA,2019,62271,Petrol,Manual,13240,750000,7,Jaipur
+Hyundai Creta,Hyundai,2015,143041,Diesel,Auto,17836,537000,11,Jaipur
+Hyundai Eon,Hyundai,2013,141416,Petrol,Manual,5978,127000,13,Jaipur
+KIA SELTOS,KIA,2024,7100,Petrol,Manual,19434,1135000,2,Jaipur
+Maruti Alto,Maruti,2020,52896,Petrol,Manual,5349,303000,6,Jaipur
+Maruti Eeco,Maruti,2022,67537,Petrol,Manual,7928,449000,4,Jaipur
+Ford Ecosport,Ford,2018,167970,Diesel,Manual,10900,490000,8,Jaipur
+Tata TIAGO EV,Tata,2025,10753,Electric,Auto,11792,668000,1,Jaipur
+Honda City,Honda,2013,105465,Petrol,Manual,13934,296000,13,Jaipur
+Hyundai VENUE,Hyundai,2022,105062,Petrol,Manual,14036,631000,4,Jaipur
+Skoda Rapid,Skoda,2019,128442,Diesel,Manual,12435,559000,7,Jaipur
+Mahindra XUV500,Mahindra,2016,230092,Diesel,Auto,12351,469000,10,Jaipur
+Hyundai Creta,Hyundai,2021,58421,Petrol,Manual,14965,874000,5,Jaipur
+Skoda Rapid,Skoda,2018,189968,Diesel,Auto,8898,400000,8,Jaipur
+Hyundai Santa Fe,Hyundai,2014,193920,Diesel,Auto,21936,466000,12,Jaipur
+Ford Endeavour,Ford,2012,112050,Diesel,Manual,21936,567000,14,Jaipur
+Tata ALTROZ,Tata,2024,25169,Petrol,Manual,16215,947000,2,Jaipur
+Hyundai Creta,Hyundai,2016,218898,Diesel,Manual,15221,578000,10,Jaipur
+Honda City,Honda,2016,154551,Diesel,Manual,11640,442000,10,Jaipur
+KIA SELTOS,KIA,2019,15195,Diesel,Manual,15564,909000,7,Jaipur
+Renault Kiger,Renault,2023,23770,Petrol,Manual,10239,580000,3,Jaipur
+Hyundai EXTER,Hyundai,2023,20437,Petrol,Manual,12480,707000,3,Jaipur
+Ford Ecosport,Ford,2017,54547,Petrol,Manual,7488,383000,9,Jaipur
+Maruti FRONX,Maruti,2024,13426,Petrol,Auto,14160,827000,2,Jaipur
+Hyundai NEW I20,Hyundai,2023,71643,Petrol,Manual,12904,731000,3,Jaipur
+Tata Hexa,Tata,2017,87571,Diesel,Manual,15504,697000,9,Jaipur
+Mahindra XUV300,Mahindra,2020,113580,Diesel,Manual,17017,765000,6,Jaipur
+Renault Kwid,Renault,2024,55992,Petrol,Auto,7449,422000,2,Jaipur
+Volkswagen Ameo,Volkswagen,2018,100403,Petrol,Manual,7519,338000,8,Jaipur
+Tata NEXON,Tata,2021,74610,Petrol,Manual,11474,650000,5,Jaipur
+Mahindra XUV500,Mahindra,2014,155144,Diesel,Manual,18076,384000,12,Jaipur
+Hyundai VENUE,Hyundai,2023,31172,Diesel,Manual,19794,1156000,3,Jaipur
+Renault Kiger,Renault,2023,32851,Petrol,Auto,12357,700000,3,Jaipur
+Toyota Fortuner,Toyota,2013,214793,Diesel,Auto,72031,815000,13,Jaipur
+Toyota Innova,Toyota,2014,72000,Diesel,Manual,27256,579000,12,Jaipur
+Volkswagen Ameo,Volkswagen,2018,88207,Petrol,Manual,6373,361000,8,Jaipur
+Hyundai Xcent,Hyundai,2016,133847,Petrol,Manual,6896,310000,10,Jaipur
+Mahindra XUV300,Mahindra,2019,84673,Diesel,Manual,11492,651000,7,Jaipur
+KIA SONET,KIA,2021,964935011,Petrol,Auto,19133,880000,5,Jaipur
+Renault TRIBER,Renault,2025,2853,Petrol,Manual,13801,806000,1,Jaipur
+Skoda Fabia,Skoda,2011,63570,Petrol,Manual,13801,350000,15,Jaipur
+Maruti BREZZA,Maruti,2025,16460,Petrol,Auto,15410,900000,1,Jaipur
+Hyundai GRAND I10 NIOS,Hyundai,2024,27341,Petrol,Manual,10592,600000,2,Jaipur
+Toyota Glanza,Toyota,2023,24173,Petrol,Manual,13698,800000,3,Jaipur
+Jeep Compass,Jeep,2018,106260,Diesel,Manual,19851,913000,8,Jaipur
+Maruti Baleno,Maruti,2015,78643,Petrol,Manual,9691,368000,11,Jaipur
+Hyundai VENUE,Hyundai,2024,34865,Petrol,Manual,16609,969999,2,Jaipur
+KIA SONET,KIA,2023,95381,Petrol,Manual,13698,800000,3,Jaipur
+Hyundai Creta,Hyundai,2019,83605,Petrol,Manual,12357,700000,7,Jaipur
+Mahindra XUV500,Mahindra,2015,42473,Diesel,Manual,21589,650000,11,Jaipur
+Hyundai GRAND I10 NIOS,Hyundai,2021,67391,Petrol,Auto,8050,455999,5,Jaipur
+Mahindra XUV300,Mahindra,2022,23928,Petrol,Manual,15205,888000,4,Jaipur
+Hyundai Creta,Hyundai,2020,205814,Diesel,Manual,22460,1033000,6,Jaipur
+Tata Hexa,Tata,2017,168751,Diesel,Auto,11500,517000,9,Jaipur
+KIA SONET,KIA,2024,8502,Petrol,Manual,15410,900000,2,Jaipur
+MG HECTOR,MG,2019,101289,Diesel,Manual,20721,952999,7,Jaipur
+Hyundai GRAND I10 NIOS,Hyundai,2024,10188,Petrol,Manual,12269,695000,2,Jaipur
+MG HECTOR,MG,2019,113483,Petrol,Auto,20438,940000,7,Jaipur
+Maruti XL6,Maruti,2019,97131,Petrol,Manual,12586,713000,7,Jaipur
+Maruti BREZZA,Maruti,2022,84951,Petrol,Manual,15410,900000,4,Jaipur
+KIA SONET,KIA,2020,82433,Diesel,Auto,15170,886000,6,Jaipur
+Honda City,Honda,2021,13676,Petrol,Manual,12639,716000,5,Jaipur
+Maruti Eeco,Maruti,2021,65133,Petrol,Manual,8526,483000,5,Jaipur
+Tata PUNCH EV,Tata,2025,6833,Electric,Auto,19006,1110000,1,Jaipur
+Hyundai Creta,Hyundai,2018,86452,Diesel,Auto,15912,836000,8,Jaipur
+KIA SELTOS,KIA,2019,58987,Diesel,Manual,18287,1068000,7,Jaipur
+Skoda Superb,Skoda,2017,191861,Diesel,Auto,25004,1150000,9,Jaipur
+Toyota Innova,Toyota,2014,178740,Diesel,Manual,20477,434999,12,Jaipur
+Hyundai Creta,Hyundai,2018,110789,Diesel,Manual,19590,901000,8,Jaipur
+Tata NEXON EV,Tata,2023,58658,Electric,Auto,20530,1199000,3,Jaipur
+Tata TIAGO EV,Tata,2024,43048,Electric,Auto,13732,802000,2,Jaipur
+Tata NEXON EV,Tata,2021,168552,Electric,Auto,24156,1111000,5,Jaipur
+Tata NEXON EV,Tata,2022,78803,Electric,Auto,19006,1110000,4,Jaipur
+Mahindra XUV300,Mahindra,2020,99016,Diesel,Manual,15838,925000,6,Jaipur
+Tata Hexa,Tata,2019,93545,Diesel,Auto,17824,1041000,7,Jaipur
+Tata NEXON EV,Tata,2022,59462,Electric,Auto,16609,969999,4,Jaipur
+CITROEN E C3,CITROEN,2023,43170,Electric,Auto,15479,903999,3,Jaipur
+Maruti Dzire,Maruti,2018,79608,Petrol,Auto,8915,505000,8,Jaipur
+Maruti Ciaz,Maruti,2016,222813,Diesel,Manual,10007,380000,10,Jaipur
+Nissan MAGNITE,Nissan,2024,21229,Petrol,Manual,10539,597000,2,Jaipur
+Maruti Ertiga,Maruti,2015,124073,Diesel,Manual,15345,462000,11,Jaipur
+Maruti Dzire,Maruti,2020,127250,CNG,Manual,10789,484999,6,Jaipur
+Hyundai NEW I20,Hyundai,2021,49298,Petrol,Manual,9179,520000,5,Jaipur
+Maruti Baleno,Maruti,2018,31883,Petrol,Manual,7375,418000,8,Jaipur
+Hyundai Grand i10,Hyundai,2015,15108,Petrol,Manual,7446,283000,11,Jaipur
+Honda City,Honda,2019,42966,Petrol,Manual,10852,615000,7,Jaipur
+Toyota Glanza,Toyota,2022,44836,Petrol,Manual,10768,610000,4,Jaipur
+Hyundai GRAND I10 NIOS,Hyundai,2022,21269,Petrol,Manual,8793,498000,4,Jaipur
